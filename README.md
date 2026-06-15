@@ -121,5 +121,4 @@ The **Right** and **Up** vectors are derived using **cross products**, ensuring 
 
 ---
 
-*Built from scratch to explore the intersection of computer graphics, procedural generation, and high-performance pathfinding in three-dimensional space.*
-```
+
