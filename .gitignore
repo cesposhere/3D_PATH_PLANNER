@@ -1,0 +1,12 @@
+# CMake and Build artifacts
+build/
+out/
+.cmake/
+CMakeCache.txt
+CMakeFiles/
+*.exe
+*.pdb
+*.obj
+
+# VS Code specific files
+.vscode/
