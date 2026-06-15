@@ -1,4 +1,4 @@
-```md
+
 # 3D Spatial Pathfinding Engine
 
 A high-performance, interactive 3D voxel engine built from scratch in **C++** and **OpenGL**. This project visualizes real-time pathfinding algorithms (**A\***, **Dijkstra**, **Greedy Best-First Search**) navigating through procedurally generated **Perlin noise cave networks**.
